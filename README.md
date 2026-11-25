@@ -21,6 +21,8 @@ harmonic you choose of the note that is sounding, and travels with the melody.
 - **Spectrum analyzer** with Spectrum Grab: hover a peak to see Hz, note and cents
 - **Several tracks**: see other tracks' spectra behind yours and spot collisions (e.g. kick × bass)
 - **Per-band channel**: stereo, L, R, Mid or Side
+- **Morph A↔B**: one (automatable) knob that turns setting A into setting B gradually
+- **Explain mode**: hover the graph to see what each frequency region usually sounds like (captions in Portuguese)
 - A/B, presets, Auto Gain, MIDI Learn and a resizable interface (75 to 200 %)
 - Light: about 0.3 % of one CPU core per instance with 8 bands
 
@@ -34,8 +36,8 @@ harmonic you choose of the note that is sounding, and travels with the melody.
 
 | File | For | Size |
 |---|---|---|
-| **LAIA-FQ-1-Setup-1.0.0.exe** | Installer: the easiest way. Installs the VST3, the CLAP (optional) and the manual. | 6.2 MB |
-| **LAIA-FQ-1-1.0.0-Windows.zip** | Manual install: the plug-in folder, the PDF manual and the "How to install in Ableton" guide. | 5.9 MB |
+| **LAIA-FQ-1-Setup-1.0.0.exe** | Installer: the easiest way. Installs the VST3, the CLAP (optional) and the manual. | 6.3 MB |
+| **LAIA-FQ-1-1.0.0-Windows.zip** | Manual install: the plug-in folder, the PDF manual and the "How to install in Ableton" guide. | 6.0 MB |
 
 **[Download from the Releases page](https://github.com/diogohcoura/LAIA-FQ-1-download/releases/latest)** (the PDF manuals are there too).
 
@@ -72,8 +74,8 @@ The code shown must match:
 
 | File | SHA-256 |
 |---|---|
-| LAIA-FQ-1-Setup-1.0.0.exe | `45a569e8254b78eab94f88253880472540ae57653de885ec0711ccf3ab0fc8f3` |
-| LAIA-FQ-1-1.0.0-Windows.zip | `91f31d368256268c9dd954ecde2da3f35ac8598c4c305c80f1f970d81b65d4e2` |
+| LAIA-FQ-1-Setup-1.0.0.exe | `b5018e8db9c754efa1fdf0a68bdd0664d08fc9d52bc4f7c6b260345349c8a823` |
+| LAIA-FQ-1-1.0.0-Windows.zip | `6a361cc55bb22ff4214ff8a4ec45a5c9e3281f7b9ae2e744459bbb7db9f537b5` |
 
 ## Licence and credits
 
@@ -108,6 +110,8 @@ harmônico que você escolher da nota que está soando, e anda junto com a melod
 - **Analisador de espectro** com Spectrum Grab: passe o mouse num pico e veja Hz, nota e cents
 - **Várias faixas**: veja o espectro de outras faixas por trás do seu e encontre colisões (ex.: bumbo × baixo)
 - **Canal por banda**: estéreo, L, R, Mid ou Side
+- **Morph A↔B**: um knob (automatizável) que transforma o ajuste A no B aos poucos
+- **Modo Explica**: passe o mouse no gráfico e veja o que cada região de frequência costuma soar
 - A/B, presets, Auto Gain, MIDI Learn e interface redimensionável (75 a 200 %)
 - Leve: cerca de 0,3 % de um núcleo de CPU por instância com 8 bandas
 
@@ -121,8 +125,8 @@ harmônico que você escolher da nota que está soando, e anda junto com a melod
 
 | Arquivo | Para quem | Tamanho |
 |---|---|---|
-| **LAIA-FQ-1-Setup-1.0.0.exe** | Instalador: o jeito mais fácil. Instala o VST3, o CLAP (opcional) e o manual. | 6,2 MB |
-| **LAIA-FQ-1-1.0.0-Windows.zip** | Instalação manual: a pasta do plugin, o manual em PDF e o guia "Como instalar no Ableton". | 5,9 MB |
+| **LAIA-FQ-1-Setup-1.0.0.exe** | Instalador: o jeito mais fácil. Instala o VST3, o CLAP (opcional) e o manual. | 6,3 MB |
+| **LAIA-FQ-1-1.0.0-Windows.zip** | Instalação manual: a pasta do plugin, o manual em PDF e o guia "Como instalar no Ableton". | 6,0 MB |
 
 **[Baixar na página de Releases](https://github.com/diogohcoura/LAIA-FQ-1-download/releases/latest)** (os manuais em PDF também estão lá).
 
@@ -159,8 +163,8 @@ O código mostrado deve ser igual a este:
 
 | Arquivo | SHA-256 |
 |---|---|
-| LAIA-FQ-1-Setup-1.0.0.exe | `45a569e8254b78eab94f88253880472540ae57653de885ec0711ccf3ab0fc8f3` |
-| LAIA-FQ-1-1.0.0-Windows.zip | `91f31d368256268c9dd954ecde2da3f35ac8598c4c305c80f1f970d81b65d4e2` |
+| LAIA-FQ-1-Setup-1.0.0.exe | `b5018e8db9c754efa1fdf0a68bdd0664d08fc9d52bc4f7c6b260345349c8a823` |
+| LAIA-FQ-1-1.0.0-Windows.zip | `6a361cc55bb22ff4214ff8a4ec45a5c9e3281f7b9ae2e744459bbb7db9f537b5` |
 
 ## Licença e créditos
 
