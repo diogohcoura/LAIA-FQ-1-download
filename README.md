@@ -22,7 +22,7 @@ harmonic you choose of the note that is sounding, and travels with the melody.
 - **Several tracks**: see other tracks' spectra behind yours and spot collisions (e.g. kick × bass)
 - **Per-band channel**: stereo, L, R, Mid or Side
 - **Morph A↔B**: one (automatable) knob that turns setting A into setting B gradually
-- **Explain mode**: hover the graph to see what each frequency region usually sounds like (captions in Portuguese)
+- **Explain mode**: hover the graph to see what each frequency region usually sounds like
 - A/B, presets, Auto Gain, MIDI Learn and a resizable interface (75 to 200 %)
 - Light: about 0.3 % of one CPU core per instance with 8 bands
 
@@ -36,7 +36,7 @@ harmonic you choose of the note that is sounding, and travels with the melody.
 
 | File | For | Size |
 |---|---|---|
-| **LAIA-FQ-1-Setup-1.0.0.exe** | Installer: the easiest way. Installs the VST3, the CLAP (optional) and the manual. | 6.3 MB |
+| **LAIA-FQ-1-Setup-1.0.0.exe** | Installer: the easiest way. Installs the VST3, the CLAP (optional) and the manual. | 6.2 MB |
 | **LAIA-FQ-1-1.0.0-Windows.zip** | Manual install: the plug-in folder, the PDF manual and the "How to install in Ableton" guide. | 6.0 MB |
 
 **[Download from the Releases page](https://github.com/diogohcoura/LAIA-FQ-1-download/releases/latest)** (the PDF manuals are there too).
@@ -74,8 +74,8 @@ The code shown must match:
 
 | File | SHA-256 |
 |---|---|
-| LAIA-FQ-1-Setup-1.0.0.exe | `b5018e8db9c754efa1fdf0a68bdd0664d08fc9d52bc4f7c6b260345349c8a823` |
-| LAIA-FQ-1-1.0.0-Windows.zip | `6a361cc55bb22ff4214ff8a4ec45a5c9e3281f7b9ae2e744459bbb7db9f537b5` |
+| LAIA-FQ-1-Setup-1.0.0.exe | `a7cfcb9b94759984f9b54dc48bcada5328420550a4063ec743d884f6f994512a` |
+| LAIA-FQ-1-1.0.0-Windows.zip | `4f5ee33979ccc7203ad1669886de8e42a4f31ea597ce0e77e51da6aae88d0e65` |
 
 ## Licence and credits
 
@@ -120,12 +120,13 @@ harmônico que você escolher da nota que está soando, e anda junto com a melod
 - Windows 10 (versão 1607 ou mais nova) ou Windows 11, 64 bits
 - Ableton Live 11 ou 12, ou qualquer programa que carregue plugins VST3
 - Versão CLAP incluída no instalador, para Bitwig, Reaper e outros
+- Interface do plugin em inglês (manual em português e em inglês)
 
 ## Download — versão 1.0.0
 
 | Arquivo | Para quem | Tamanho |
 |---|---|---|
-| **LAIA-FQ-1-Setup-1.0.0.exe** | Instalador: o jeito mais fácil. Instala o VST3, o CLAP (opcional) e o manual. | 6,3 MB |
+| **LAIA-FQ-1-Setup-1.0.0.exe** | Instalador: o jeito mais fácil. Instala o VST3, o CLAP (opcional) e o manual. | 6,2 MB |
 | **LAIA-FQ-1-1.0.0-Windows.zip** | Instalação manual: a pasta do plugin, o manual em PDF e o guia "Como instalar no Ableton". | 6,0 MB |
 
 **[Baixar na página de Releases](https://github.com/diogohcoura/LAIA-FQ-1-download/releases/latest)** (os manuais em PDF também estão lá).
@@ -163,8 +164,8 @@ O código mostrado deve ser igual a este:
 
 | Arquivo | SHA-256 |
 |---|---|
-| LAIA-FQ-1-Setup-1.0.0.exe | `b5018e8db9c754efa1fdf0a68bdd0664d08fc9d52bc4f7c6b260345349c8a823` |
-| LAIA-FQ-1-1.0.0-Windows.zip | `6a361cc55bb22ff4214ff8a4ec45a5c9e3281f7b9ae2e744459bbb7db9f537b5` |
+| LAIA-FQ-1-Setup-1.0.0.exe | `a7cfcb9b94759984f9b54dc48bcada5328420550a4063ec743d884f6f994512a` |
+| LAIA-FQ-1-1.0.0-Windows.zip | `4f5ee33979ccc7203ad1669886de8e42a4f31ea597ce0e77e51da6aae88d0e65` |
 
 ## Licença e créditos
 
